@@ -1,8 +1,8 @@
 class Gigastt < Formula
   desc "Local speech-to-text server powered by GigaAM v3 — on-device Russian speech recognition"
   homepage "https://github.com/ekhodzitsky/gigastt"
-  url "https://github.com/ekhodzitsky/gigastt/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "0019dfc4b32d63c1392aa264aed2253c1e0c2fb09216f8e2cc269bbfb8bb49b5"
+  url "https://github.com/ekhodzitsky/gigastt/archive/refs/tags/v0.1.2.tar.gz"
+  sha256 "47919c1738bc28d2b24888347fc54e4da1c9307092b29e80cade5c44f6961ce7"
   license "MIT"
 
   depends_on "rust" => :build
